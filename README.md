@@ -50,11 +50,11 @@ pip install torch transformers pandas numpy matplotlib seaborn wordcloud
 ```
 
 ### 2️⃣ Run NLP Analysis (BERT Cosine Similarity):
-- Open notebooks/Bert_Cosine_Similarity.ipynb in Jupyter Notebook.
+- Open `notebooks/Bert_Cosine_Similarity.ipynb` in Jupyter Notebook.
 - Run all cells to compute similarity scores between hotel reviews & AI-generated sustainability reviews.
 
 ### 3️⃣ Run Data Visualization Notebook:
-- Open notebooks/Hotel_Data_Visualization.ipynb to explore trends & insights.
+- Open `notebooks/Hotel_Data_Visualization.ipynb` to explore trends & insights.
 
 ## 🔍 Future Enhancements
 - Enhance AI-generated sustainability review dataset for better benchmarking.
